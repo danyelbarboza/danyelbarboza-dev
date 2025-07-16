@@ -16,7 +16,7 @@
 <br>
 
 <p align="left">
-  <h1>👋 Olá! Eu sou o Danyel</h1>
+  <h1>👋 Olá! Eu sou o Danyel Barboza!</h1>
   🎓 Estudante de Engenharia de Software apaixonado por tecnologia, educação e filosofia.<br>
   💻 Focado em desenvolvimento web, APIs e automação.<br>
   📚 Curioso por filmes, línguas, música e fotografia analógica.<br>
@@ -36,7 +36,7 @@
 <h2>✉️ Vamos conversar?</h2>
 
 <p>
-  Me mande uma mensagem ou confira meus projetos aqui no GitHub! 😄
+  Me mande uma mensagem no LinkedIn ou confira meus projetos aqui no GitHub! 😄
 </p>
 
 </div>
