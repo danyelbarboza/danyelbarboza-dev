@@ -40,11 +40,9 @@
   Me mande uma mensagem ou confira meus projetos aqui no GitHub! 😄
 </p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo" />
 </div>
-
-
+###
+###
 ###
 
 <div align="center">
