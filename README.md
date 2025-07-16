@@ -14,7 +14,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
 </div>
 <br>
-###
 
 <p align="left">
   <h1>👋 Olá! Eu sou o Danyel</h1>
@@ -42,7 +41,6 @@
 
 </div>
 <br>
-###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=danyelbarboza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
